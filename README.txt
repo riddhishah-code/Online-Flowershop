@@ -19,15 +19,6 @@ SETUP USING XAMPP
 5. Open:
    http://localhost/flower-shop/
 
-DEMO LOGIN
-----------
-Admin:
-Email: admin@bloombasket.com
-Password: admin123
-
-Customer:
-Email: riya@gmail.com
-Password: user123
 
 IMPORTANT
 ---------
